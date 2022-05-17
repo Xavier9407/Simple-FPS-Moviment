@@ -23,6 +23,7 @@ public class Enemy : MonoBehaviour
         }
     }
 
+
     private void TakeDamage(float damage)
     {
         life -= damage;
